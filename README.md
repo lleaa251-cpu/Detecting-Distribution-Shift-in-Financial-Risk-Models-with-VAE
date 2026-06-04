@@ -107,4 +107,5 @@ scipy >= 1.9
 ```
 
 不需要 PyTorch / TensorFlow！
-file:///D:/%E9%87%8D%E8%A6%81%E8%B3%87%E6%96%99%E5%8D%80/Desktop/vae%20project%20page.html#method
+
+<br>架構圖網站：file:///D:/%E9%87%8D%E8%A6%81%E8%B3%87%E6%96%99%E5%8D%80/Desktop/vae%20project%20page.html
